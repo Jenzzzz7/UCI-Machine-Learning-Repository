@@ -51,7 +51,7 @@ The UCI repository is one of the most widely used collections of datasets for ma
 | Data types | **Multivariate** is the most common (323), then Time-Series (76) and Text (42) |
 
 ## Workflow
-![Project data flow](images/data_flow.png)
+![Project data flow](images/dashboard.png)
 
 Python cleans and explores the raw files, the cleaned dataset goes into PostgreSQL for advanced SQL analysis, and the same dataset powers the interactive dashboard. Results are written up in the report and README, and the dashboard is published with GitHub Pages.
 
@@ -158,4 +158,4 @@ A single `index.html` file with the cleaned dataset embedded, so it works withou
 Data comes from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/). Dataset descriptions belong to their original authors and donors. <!-- TODO: add the exact citation UCI asks for -->
 
 ## Author
-**[Your Name]** · [LinkedIn](https://www.linkedin.com/) · [Email](mailto:you@example.com)
+Jenoah Gonsalves · [LinkedIn](https://www.linkedin.com/in/jenoah-gonsalves-106113146/) · [Email](mailto:jenoah2004@gmail.com)
