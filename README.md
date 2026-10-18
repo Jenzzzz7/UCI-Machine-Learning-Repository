@@ -2,7 +2,7 @@
 
 An end-to-end analysis of 406 datasets from the UCI Machine Learning Repository. I cleaned the data with **Python**, answered analytical questions with advanced **PostgreSQL** queries, and built an interactive **web dashboard** to explore the results.
 
-**[Live dashboard](https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/)** · [Project report](PROJECT_REPORT.pdf)
+**[Live dashboard](https://jenzzzz7.github.io/UCI-Machine-Learning-Repository/)** · [Project report](PROJECT_REPORT.pdf)
 
 ![Dashboard preview](images/dashboard.png)
 <!-- TODO: add a screenshot of the web dashboard at images/dashboard.png -->
